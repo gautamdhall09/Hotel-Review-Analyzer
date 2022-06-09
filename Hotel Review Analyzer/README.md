@@ -1,4 +1,4 @@
-# HotelReviews_SentimentAnalysis
+# Hotel Review Analyzer
 
 Main tools/concepts used: 
 ##### Natural Language Processing, nltk, Naive Bayes Classifier, bag-of-words model, Pandas, matplotlib, seaborn
